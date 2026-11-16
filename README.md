@@ -1,8 +1,11 @@
 # s2477712.github.io
 
 Study title: Associations with Multilingual Cosmetics Advertising
+
 Principal Investigator: Claire Cowie
+
 Researcher collecting data: Aaron Venter
+
 
 What is this page? This page explains what kind of study we’re doing, what your rights are, and what will be done with your data. You should print this page for your records.
 
@@ -16,3 +19,13 @@ What are my data protection rights? The University of Edinburgh is a Data Contro
 
 Voluntary participation and right to withdraw. Your participation is voluntary, and you may withdraw from the study at any time while you are completing it. However, please note that once you submit your survey we are not able to identify you, and therefore we cannot remove your data from the study after that point.
 If you have any questions about what you’ve just read, please feel free to ask, or contact us later. You can contact us by email at A.Venter@sms.ed.ac.uk. This project has been approved by PPLS Ethics committee. If you have questions or comments regarding your rights as a participant, please contact the School Research Convenor at ppls.rec@ed.ac.uk.
+
+
+By continuing with this task, you consent to the following:
+
+1. I agree to participate in this study.
+   
+3. I confirm that I have read and understood how my data will be stored and used.
+   
+3. I understand that I have the right to terminate this session at any point. 
+
