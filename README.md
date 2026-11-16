@@ -1,4 +1,4 @@
-# s2477712.github.io
+# PARTICIPANT INFORMATION LETTER
 
 Study title: Associations with Multilingual Cosmetics Advertising
 
