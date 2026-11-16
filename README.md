@@ -22,11 +22,11 @@
 If you have any questions about what you’ve just read, please feel free to ask, or contact us later. You can contact us by email at A.Venter@sms.ed.ac.uk. **This project has been approved by PPLS Ethics committee.** If you have questions or comments regarding your rights as a participant, please contact the School Research Convenor at ppls.rec@ed.ac.uk.
 
 
-By continuing with this task, you consent to the following:
+**By continuing with this task, you consent to the following:**
 
-1. I agree to participate in this study.
+**1. I agree to participate in this study.**
    
-3. I confirm that I have read and understood how my data will be stored and used.
+**3. I confirm that I have read and understood how my data will be stored and used.**
    
-3. I understand that I have the right to terminate this session at any point. 
+**3. I understand that I have the right to terminate this session at any point.**
 
