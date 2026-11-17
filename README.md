@@ -1,6 +1,6 @@
 # PARTICIPANT INFORMATION LETTER
 
-**Study title**: Associations with Multilingual Cosmetics Advertising
+**Study title**: Associations with Cosmetics Advertising
 
 **Principal Investigator**: Claire Cowie
 
@@ -9,7 +9,7 @@
 
 **What is this page?** This page explains what kind of study we’re doing, what your rights are, and what will be done with your data. You should print this page for your records.
 
-**Nature of the study.** You are invited to participate in a study which involves answering questions about your perceptions of skincare products. Once you finish, we may have also some questions about your linguistic and consumer experience. Your responses will be recorded. Your session should last for up to **5 minutes**. You will be given full instructions shortly.
+**Nature of the study.** You are invited to participate in a study which involves answering questions about your perceptions of skincare products. Once you finish, we may have also some questions about your linguistic and consumer experience. Your responses will be recorded. Your session should last for up to **8 minutes**. You will be given full instructions shortly.
 
 **Risks and benefits.** There are no known risks to participation in this study. There no tangible benefits to you, however you will be contributing to our knowledge about language and advertising.
 
